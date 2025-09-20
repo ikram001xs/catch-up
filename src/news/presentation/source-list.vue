@@ -12,7 +12,7 @@
 
 <template>
 <pv-drawer v-bind:visible="visible">
-  <source-item v-for="source in source"
+  <source-item v-for="source in sources"
                :key="source.id"
                 :source="source"
                 @source-selected="emitSourceSelectedEvent(source)"/>
