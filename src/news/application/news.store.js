@@ -17,7 +17,7 @@ export const newsStore = reactive({
        }
    },
     loadSources() {
-        this.errors =     [];
+        this.errors = [];
         newsApi.getSources().then(response => {
             this.sources = SourceAssembler.toEntitiesFromResponse(response);
             if(this.sources.length > 0) {
