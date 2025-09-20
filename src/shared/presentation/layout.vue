@@ -7,7 +7,7 @@ import ArticleList from "../../news/presentation/article-list.vue";
 import UnavailableContent from "../../news/presentation/unavailable-content.vue";
 import FooterContent from "./footer-content.vue";
 
-  const drawerVisible = ref(false);
+const drawerVisible = ref(false);
   const toggleDrawer = () => { drawerVisible.value = !drawerVisible.value; }
 
   const sources = computed(() => newsStore.sources);
